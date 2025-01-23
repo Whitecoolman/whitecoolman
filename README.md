@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/whitecoolman?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=whitecoolman&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&theme=buefy" width="48%" alt="@whitecoolman's github-readme-stats-one-bice"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=whitecoolman&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" width="48%" alt="@whitecoolman's github-readme-stats-one-bice"/>
   </a>
 </p>
 
